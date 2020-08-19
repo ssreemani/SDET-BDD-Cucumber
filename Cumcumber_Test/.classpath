@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/SudiptaSreemani/Desktop/Desktop_new/Reskill/SDET/Selenium Installer/JAR Files/Selenium/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SudiptaSreemani/Desktop/Desktop_new/Reskill/SDET/Selenium Installer/JAR Files/Selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SudiptaSreemani/Desktop/Desktop_new/Reskill/SDET/Selenium Installer/JAR Files/Selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SudiptaSreemani/Desktop/Desktop_new/Reskill/SDET/Selenium Installer/JAR Files/Selenium/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SudiptaSreemani/Desktop/Desktop_new/Reskill/SDET/Selenium Installer/JAR Files/Selenium/guava-25.0-jre (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/SudiptaSreemani/Desktop/Desktop_new/Reskill/SDET/Selenium Installer/JAR Files/Selenium/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SudiptaSreemani/Desktop/Desktop_new/Reskill/SDET/Selenium Installer/JAR Files/Selenium/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SudiptaSreemani/Desktop/Desktop_new/Reskill/SDET/Selenium Installer/JAR Files/Cucumber/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SudiptaSreemani/Desktop/Desktop_new/Reskill/SDET/Selenium Installer/JAR Files/Cucumber/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SudiptaSreemani/Desktop/Desktop_new/Reskill/SDET/Selenium Installer/JAR Files/Cucumber/cucumber-html-0.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SudiptaSreemani/Desktop/Desktop_new/Reskill/SDET/Selenium Installer/JAR Files/Cucumber/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SudiptaSreemani/Desktop/Desktop_new/Reskill/SDET/Selenium Installer/JAR Files/Cucumber/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SudiptaSreemani/Desktop/Desktop_new/Reskill/SDET/Selenium Installer/JAR Files/Cucumber/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SudiptaSreemani/Desktop/Desktop_new/Reskill/SDET/Selenium Installer/JAR Files/Cucumber/cucumber-reporting-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SudiptaSreemani/Desktop/Desktop_new/Reskill/SDET/Selenium Installer/JAR Files/Cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SudiptaSreemani/Desktop/Desktop_new/Reskill/SDET/Selenium Installer/JAR Files/Cucumber/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SudiptaSreemani/Desktop/Desktop_new/Reskill/SDET/Selenium Installer/JAR Files/Cucumber/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SudiptaSreemani/Desktop/Desktop_new/Reskill/SDET/Selenium Installer/JAR Files/Common_jar/junit-3.8.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
